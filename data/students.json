@@ -1,0 +1,17 @@
+[
+    {
+        "student_id": "STU005",
+        "name": "Okeke Miracle",
+        "student_class": "LEVEL300",
+        "gender": "Male",
+        "dob": "2007-01-26",
+        "scores": {
+            "Mathematics": 99.0,
+            "English Language": 85.0,
+            "Physics": 90.0,
+            "Chemistry": 92.0,
+            "Biology": 95.0
+        },
+        "result_date": "2026-11-13 00:42"
+    }
+]
